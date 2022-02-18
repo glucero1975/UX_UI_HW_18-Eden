@@ -36,11 +36,11 @@ a  {
     padding: 5px;
 }
 
-.author{
+.author {
     color:white;
 }
 
-.flexContainer{
+.flexContainer {
     display:flex;
     width:33%;
     flex-wrap: wrap;
